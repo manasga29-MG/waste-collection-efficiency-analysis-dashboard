@@ -69,7 +69,7 @@ Highlighted service gaps requiring operational improvements.
 Recommended actionable measures to enhance municipal waste management.
 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+
 
 Images/Dashboard Overview.png
 Business Impact
@@ -89,7 +89,7 @@ Predictive Analytics
 Automated Reporting
 Author
 
-Manas Gour
+Manas Gaur
 
 Business Analyst | Data Analyst
 
